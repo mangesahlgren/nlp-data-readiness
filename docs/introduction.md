@@ -1,14 +1,11 @@
 # Introduction
 
-At RISE, we often work in cooperation with other organizations with respect to applied research and business challenges 
-that lend themselves to solutions based on natural language processing (NLP). The purpose of this document is to outline
-and highlight issues related to data accessibility, validity, and utility that may arise in such situations.
+At RISE, we often work in cooperation with other organizations with respect to applied research and innovation in Natural Language Processing (NLP). A major challenge that we often encounter is a lack of readiness with respect to data. Even if the research problem is sufficiently well defined, and the business value of the proposed solution is well described, it is often not clear what type of data is required, if it is available, or if it even exists at all. We find that there is often not even a framework available to discuss issues related to data. The purpose of this document is to outline and highlight issues related to data accessibility, validity, and utility that may arise in such situations. We hope that this document may serve as a guide for working practically with data in the context of applied NLP.
 
 
 ## Scope
 
-This document is concerned with data readiness in the context of natural language
-processing. Thus, other modalities such as images, video, speech or sensor data are not covered. 
+This document is concerned with data readiness in the context of NLP. Thus, other modalities such as images, video, speech or sensor data are not covered, but similar considerations apply in those cases. 
 
 ## How to use this document
 
